@@ -13,3 +13,6 @@
 - Semantics
   - Cognitive and societal factors of meaning and meaning change
 - Fair and Interpretable Language Processing
+
+### Aside from academia stuff:
+- Producing, Mixing, and Mastering for [Die Schwimmen](https://open.spotify.com/intl-de/artist/38V0QdCiJv4Fjp7EiOLynA?si=-Yrr4WpsR1Go94U4IwwtOQ)
