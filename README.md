@@ -3,7 +3,7 @@
 ### About Me
 - Pronouns: He/Him
 - Doctoral Researcher @ GESIS Leibniz Institut für Sozialwissenschaften
-- I have an MSc in Computational Linguistics @ Uni Stuttgart, my thesis was on automatic political scaling from politicians' tweets
+- I have an MSc in Computational Linguistics from the University of Stuttgart, my thesis was on automatic political scaling from politicians' tweets
 - Previously, I was a student researcher for the [SemChangeMWE](https://www.ims.uni-stuttgart.de/en/research/projects/semchangemwe/) project, looking into connections between the present-day degree of compositionality of noun compounds and the historical development of empirical properties.
 
 ### Research Interests
