@@ -7,8 +7,8 @@
 - Previously, I was a student researcher for the [SemChangeMWE](https://www.ims.uni-stuttgart.de/en/research/projects/semchangemwe/) project, looking into connections between the present-day degree of compositionality of noun compounds and the historical development of empirical properties.
 
 ### Research Interests
+- Disagreement/Human Label Variation, Perspectivism
 - Computational Social/Political Science
-  - Disagreement, Perspectivism
   - Political Scaling
   - Stance and Ideology Detection
 - Semantics
