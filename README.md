@@ -18,5 +18,5 @@ Find me on [Twitter](https://x.com/maxmmaurer), [LinkedIn](https://www.linkedin.
 
 
 ### Cool bits and pieces aside from academia and code:
-- I did the mixing and mastering for the first EP of [Die Schwimmen](https://open.spotify.com/intl-de/artist/38V0QdCiJv4Fjp7EiOLynA?si=-Yrr4WpsR1Go94U4IwwtOQ). Check it out!
+- I did the mixing and mastering for the first EP of [Die Schwimmen]([https://open.spotify.com/intl-de/artist/38V0QdCiJv4Fjp7EiOLynA?si=-Yrr4WpsR1Go94U4IwwtOQ](https://open.spotify.com/album/3baTc4oPEzsgyoGP8TR2XX)). Check it out!
 - Check out our LLM-prompted poetry and prose in the [Cogito Zine](https://www.flipsnack.com/58DBF5FF8D6/cogito-issue-no-01-printed-version/full-view.html) "Literature with and from Artificial Intelligence"!
