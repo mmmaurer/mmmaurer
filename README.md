@@ -4,7 +4,7 @@
 - Pronouns: He/Him
 - Doctoral Researcher @ GESIS Leibniz Institute for the Social Sciences and Heinrich-Heine University Düsseldorf
 
-Find me on [Twitter](https://x.com/maxmmaurer), [LinkedIn](https://www.linkedin.com/in/maximilian-martin-maurer-217591268/), [Google Scholar](https://scholar.google.com/citations?user=gKqjcwEAAAAJ&hl=en), [Hugging Face](https://huggingface.co/mmmaurer)
+Find me on [Bluesky](https://bsky.app/profile/mmmaurer.bsky.social), [Twitter](https://x.com/maxmmaurer), [LinkedIn](https://www.linkedin.com/in/maximilian-martin-maurer-217591268/), [Google Scholar](https://scholar.google.com/citations?user=gKqjcwEAAAAJ&hl=en), [Hugging Face](https://huggingface.co/mmmaurer)
 
 
 ### Research Interests
