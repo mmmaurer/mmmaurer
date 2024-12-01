@@ -18,5 +18,5 @@ Find me on [Bluesky](https://bsky.app/profile/mmmaurer.bsky.social), [Twitter](h
 
 
 ### Cool bits and pieces aside from academia and code:
-- I did the mixing and mastering for the first EP of [Die Schwimmen](https://open.spotify.com/album/3baTc4oPEzsgyoGP8TR2XX). Check it out!
+- I did the mixing and mastering for the first EP of the Berlin-based 1-person Band [Die Schwimmen](https://open.spotify.com/album/3baTc4oPEzsgyoGP8TR2XX). Check it out!
 - Check out our LLM-prompted poetry and prose in the [Cogito Zine](https://www.flipsnack.com/58DBF5FF8D6/cogito-issue-no-01-printed-version/full-view.html) "Literature with and from Artificial Intelligence"!
